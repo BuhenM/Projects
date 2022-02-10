@@ -9,7 +9,7 @@
             <li> Notepad also has many other useful tools such as line numbering, color coding, and hints</li>
             <li>The link https://notepad-plus-plus.org/ </li>
          </ol>
-    <li><strong>CSS resource<strong></li>
+    <li><strong>CSS resource</strong></li>
         <ol>
             <li> A good CSS editor that i found is Atom. </li> 
             <li> Atom is easy-to-use and free! It lets you collaborate with others on your code  </li>
